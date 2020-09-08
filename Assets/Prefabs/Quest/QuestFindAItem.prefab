@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4770532109734039872
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7568192309527050912, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192309527050912, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192309527050942, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: automaticCatch
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969658, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: itemNeeded.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969658, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: questID
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969658, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: title
+      value: Persona perdida
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969658, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: startText
+      value: Busca pistas que te ayuden a encontrar el hijo de Juan
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969658, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: completeText
+      value: "Has encontrado la capa del hijo de Juan... al parecer sali\xF3 del pueblo"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969658, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: itemNeeded.Array.data[0]
+      value: 
+      objectReference: {fileID: 1604116783672065315, guid: 3199c3257d1f6984d906ce1457b443e3,
+        type: 3}
+    - target: {fileID: 7568192310021969658, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: needsItem
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 15.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 2.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969659, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7568192310021969660, guid: bbed9b18702978842a2cf0e84b23f0a4,
+        type: 3}
+      propertyPath: m_Name
+      value: QuestFindAItem
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bbed9b18702978842a2cf0e84b23f0a4, type: 3}
